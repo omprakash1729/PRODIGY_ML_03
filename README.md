@@ -1,7 +1,7 @@
 # PRODIGY_ML_03
 
 ## Project Overview
-This project involves implementing a machine learning model for image classification. The model categorizes images in a phone gallery into different sections, such as identifying pictures of various people. 
+This project involves implementing a machine-learning model for image classification. The model categorizes images in a phone gallery into different sections, such as identifying pictures of various people. 
 
 ## Directory Structure
 - `data/`: Contains training and test datasets.
